@@ -1,6 +1,10 @@
 # Homework 2
 # Justin Cheung
 # Created April 20th, 2026
+# Last Modified: April 21st, 2026
+
+# Created in purpose to caculate optimatal interest rates using
+# Bisectional Searches and recording # of steps
 
 semi_annual_rate = 0.07
 rate = 0.04
