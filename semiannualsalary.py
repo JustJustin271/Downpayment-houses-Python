@@ -1,3 +1,11 @@
+# Homework 2
+# Justin Cheung
+# Created April 20th, 2026
+# Last Modified: April 21st, 2026
+
+# Created in purpose to calculate the number of months need to 
+# Get a down payment for a house with various salaries and portioned savings
+
 PORTION_DOWN_PAYMENT = 0.25
 RATE = 0.04
 
