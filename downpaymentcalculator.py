@@ -1,3 +1,11 @@
+# Homework 2
+# Justin Cheung
+# Created April 20th, 2026
+# Last Modified: April 21st, 2026
+
+# Created in purpose to caculathe number
+# Of months needed to save for a downpayment
+
 current_savings = 0
 portion_down_payment = 0.25
 rate = 0.04
