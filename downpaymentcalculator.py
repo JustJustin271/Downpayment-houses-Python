@@ -5,6 +5,7 @@
 
 # Created in purpose to caculathe number
 # Of months needed to save for a downpayment
+# With a semi-annual salary
 
 current_savings = 0
 portion_down_payment = 0.25
